@@ -1,0 +1,56 @@
+G:\College\dbms\Proctor Database Management system\Proctor Database Management system\bin\Debug\Proctor Database Management system.exe.config
+G:\College\dbms\Proctor Database Management system\Proctor Database Management system\bin\Debug\Proctor Database Management system.exe
+G:\College\dbms\Proctor Database Management system\Proctor Database Management system\bin\Debug\Proctor Database Management system.pdb
+G:\College\dbms\Proctor Database Management system\Proctor Database Management system\obj\Debug\Proctor Database Management system.csprojAssemblyReference.cache
+G:\College\dbms\Proctor Database Management system\Proctor Database Management system\obj\Debug\Proctor_Database_Management_system.Form1.resources
+G:\College\dbms\Proctor Database Management system\Proctor Database Management system\obj\Debug\Proctor_Database_Management_system.Properties.Resources.resources
+G:\College\dbms\Proctor Database Management system\Proctor Database Management system\obj\Debug\Proctor Database Management system.csproj.GenerateResource.cache
+G:\College\dbms\Proctor Database Management system\Proctor Database Management system\obj\Debug\Proctor Database Management system.csproj.CoreCompileInputs.cache
+G:\College\dbms\Proctor Database Management system\Proctor Database Management system\obj\Debug\Proctor Database Management system.exe
+G:\College\dbms\Proctor Database Management system\Proctor Database Management system\obj\Debug\Proctor Database Management system.pdb
+G:\College\Semester\Projects\dbms\Proctor Database Management system\Proctor Database Management system\bin\Debug\Proctor Database Management system.exe.config
+G:\College\Semester\Projects\dbms\Proctor Database Management system\Proctor Database Management system\bin\Debug\Proctor Database Management system.exe
+G:\College\Semester\Projects\dbms\Proctor Database Management system\Proctor Database Management system\bin\Debug\Proctor Database Management system.pdb
+G:\College\Semester\Projects\dbms\Proctor Database Management system\Proctor Database Management system\obj\Debug\Proctor Database Management system.csprojAssemblyReference.cache
+G:\College\Semester\Projects\dbms\Proctor Database Management system\Proctor Database Management system\obj\Debug\Proctor_Database_Management_system.Properties.Resources.resources
+G:\College\Semester\Projects\dbms\Proctor Database Management system\Proctor Database Management system\obj\Debug\Proctor Database Management system.csproj.GenerateResource.cache
+G:\College\Semester\Projects\dbms\Proctor Database Management system\Proctor Database Management system\obj\Debug\Proctor Database Management system.csproj.CoreCompileInputs.cache
+G:\College\Semester\Projects\dbms\Proctor Database Management system\Proctor Database Management system\obj\Debug\Proctor Database Management system.exe
+G:\College\Semester\Projects\dbms\Proctor Database Management system\Proctor Database Management system\obj\Debug\Proctor Database Management system.pdb
+G:\College\Semester\Projects\dbms\Proctor Database Management system\Proctor Database Management system\bin\Debug\Database.mdf
+G:\College\Semester\Projects\dbms\Proctor Database Management system\Proctor Database Management system\bin\Debug\Database1.mdf
+G:\College\Semester\Projects\dbms\Proctor Database Management system\Proctor Database Management system\bin\Debug\Database1_log.ldf
+G:\College\Semester\Projects\dbms\Proctor Database Management system\Proctor Database Management system\bin\Debug\Database_log.ldf
+G:\College\Semester\Projects\dbms\Proctor Database Management system\Proctor Database Management system\obj\Debug\Proctor_Database_Management_system.login.resources
+G:\College\Semester\Projects\dbms\Proctor Database Management system\Proctor Database Management system\obj\Debug\Proctor_Database_Management_system.dashboard.resources
+G:\College\Semester\Projects\dbms\Proctor Database Management system\Proctor Database Management system\obj\Debug\Proctor_Database_Management_system.Account_UserControl.resources
+G:\College\Semester\Projects\dbms\Proctor Database Management system\Proctor Database Management system\obj\Debug\Proctor_Database_Management_system.Announce_UserControl.resources
+G:\College\Semester\Projects\dbms\Proctor Database Management system\Proctor Database Management system\obj\Debug\Proctor_Database_Management_system.Diary_UserControl.resources
+G:\College\Semester\Projects\dbms\Proctor Database Management system\Proctor Database Management system\obj\Debug\Proctor_Database_Management_system.PGroup_UserControl.resources
+G:\College\Semester\Projects\dbms\Proctor Database Management system\Proctor Database Management system\obj\Debug\Proctor_Database_Management_system.Results_UserControl.resources
+G:\College\Semester\Projects\dbms\Proctor Database Management system\Proctor Database Management system\obj\Debug\Proctor_Database_Management_system.View_announcements.resources
+G:\College\Semester\Projects\dbms\Proctor Database Management system\Proctor Database Management system\obj\Debug\Proctor_Database_Management_system.make_announcements_userControl.resources
+G:\College\Semester\Projects\dbms\Proctor Database Management system\Proctor Database Management system\obj\Debug\Proctor_Database_Management_system.diary_view.resources
+C:\Users\shrey\Desktop\DBMS Project\Proctor version\Proctor Database Management system\bin\Debug\Database.mdf
+C:\Users\shrey\Desktop\DBMS Project\Proctor version\Proctor Database Management system\bin\Debug\Database1.mdf
+C:\Users\shrey\Desktop\DBMS Project\Proctor version\Proctor Database Management system\bin\Debug\Database1_log.ldf
+C:\Users\shrey\Desktop\DBMS Project\Proctor version\Proctor Database Management system\bin\Debug\Database_log.ldf
+C:\Users\shrey\Desktop\DBMS Project\Proctor version\Proctor Database Management system\bin\Debug\Proctor Database Management system.exe.config
+C:\Users\shrey\Desktop\DBMS Project\Proctor version\Proctor Database Management system\bin\Debug\Proctor Database Management system.exe
+C:\Users\shrey\Desktop\DBMS Project\Proctor version\Proctor Database Management system\bin\Debug\Proctor Database Management system.pdb
+C:\Users\shrey\Desktop\DBMS Project\Proctor version\Proctor Database Management system\obj\Debug\Proctor Database Management system.csprojAssemblyReference.cache
+C:\Users\shrey\Desktop\DBMS Project\Proctor version\Proctor Database Management system\obj\Debug\Proctor_Database_Management_system.Account_UserControl.resources
+C:\Users\shrey\Desktop\DBMS Project\Proctor version\Proctor Database Management system\obj\Debug\Proctor_Database_Management_system.Announce_UserControl.resources
+C:\Users\shrey\Desktop\DBMS Project\Proctor version\Proctor Database Management system\obj\Debug\Proctor_Database_Management_system.dashboard.resources
+C:\Users\shrey\Desktop\DBMS Project\Proctor version\Proctor Database Management system\obj\Debug\Proctor_Database_Management_system.Diary_UserControl.resources
+C:\Users\shrey\Desktop\DBMS Project\Proctor version\Proctor Database Management system\obj\Debug\Proctor_Database_Management_system.diary_view.resources
+C:\Users\shrey\Desktop\DBMS Project\Proctor version\Proctor Database Management system\obj\Debug\Proctor_Database_Management_system.login.resources
+C:\Users\shrey\Desktop\DBMS Project\Proctor version\Proctor Database Management system\obj\Debug\Proctor_Database_Management_system.make_announcements_userControl.resources
+C:\Users\shrey\Desktop\DBMS Project\Proctor version\Proctor Database Management system\obj\Debug\Proctor_Database_Management_system.PGroup_UserControl.resources
+C:\Users\shrey\Desktop\DBMS Project\Proctor version\Proctor Database Management system\obj\Debug\Proctor_Database_Management_system.Properties.Resources.resources
+C:\Users\shrey\Desktop\DBMS Project\Proctor version\Proctor Database Management system\obj\Debug\Proctor_Database_Management_system.Results_UserControl.resources
+C:\Users\shrey\Desktop\DBMS Project\Proctor version\Proctor Database Management system\obj\Debug\Proctor_Database_Management_system.View_announcements.resources
+C:\Users\shrey\Desktop\DBMS Project\Proctor version\Proctor Database Management system\obj\Debug\Proctor Database Management system.csproj.GenerateResource.cache
+C:\Users\shrey\Desktop\DBMS Project\Proctor version\Proctor Database Management system\obj\Debug\Proctor Database Management system.csproj.CoreCompileInputs.cache
+C:\Users\shrey\Desktop\DBMS Project\Proctor version\Proctor Database Management system\obj\Debug\Proctor Database Management system.exe
+C:\Users\shrey\Desktop\DBMS Project\Proctor version\Proctor Database Management system\obj\Debug\Proctor Database Management system.pdb
